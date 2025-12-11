@@ -314,7 +314,7 @@ def setup_environment(cfg):
 
 def build_model_and_optimizer(cfg, device, log):
     obs_dim = 1
-    model = ContiFormer(obs_dim, device, cfg)
+    model = ContiFormer(obs_dim)
     optimizer = optim.AdamW(model.parameters(), lr=cfg.lr, weight_decay=1e-5)
     scheduler = None
     start_itr = 0
