@@ -307,12 +307,9 @@ class ContiFormer(nn.Module):
         self.smooth_loss = []
         self.total_loss = []
 
-        if input_size is not None:   # None for hidden state inputs
-            self.linIn = nn.Linear(input_size, d_model)
-            self.typeEmbedding = nn.Embedding(2,d_model)
-            self.linOut = nn.Linear(d_model, input_size)
-        else:
-            self.linear = None
+        self.linIn = nn.Linear(input_size, d_model)
+        self.typeEmbedding = nn.Embedding(2,d_model)
+        self.linOut = nn.Linear(d_model, input_size)
 
         # self.max_length = max_length
         self.__output_size = d_model
@@ -323,15 +320,14 @@ class ContiFormer(nn.Module):
             t = torch.linspace(0, 1, x.shape[1]).to(x.device)
             t = t.unsqueeze(0).repeat(x.shape[0], 1)
 
-        if self.linear is not None:
-            #interpolationslücken zu 0 setzen
-            x[is_observed == 0] = 0
+        #interpolationslücken zu 0 setzen
+        x[is_observed == 0] = 0
 
-            #value embedding
-            value_emb = self.linear(x)
+        #value embedding
+        value_emb = self.linIn(x)
 
-            #type embedding
-            type_emb = self.typeEmbedding(is_observed)
+        #type embedding
+        type_emb = self.typeEmbedding(is_observed)
         
         # print(x[0,:,:])
         # print(value_emb[0,:,:])
