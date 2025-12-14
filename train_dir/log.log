@@ -1096,3 +1096,19 @@
 [2025-12-14 14:02:45,561][./train_dir/log][INFO] - Training: Iter: 64, batch: 50/100, running loss: 0.0054
 [2025-12-14 14:09:53,597][./train_dir/log][INFO] - Training: Iter: 64, batch: 100/100, running loss: 0.0055
 [2025-12-14 14:09:54,769][./train_dir/log][INFO] - Validation: Epoch: 64, MAE: 8.1710, RMSE: 9.0387, MAPE: 31.36%
+[2025-12-14 14:16:58,516][./train_dir/log][INFO] - Training: Iter: 65, batch: 50/100, running loss: 0.0052
+[2025-12-14 14:24:01,467][./train_dir/log][INFO] - Training: Iter: 65, batch: 100/100, running loss: 0.0049
+[2025-12-14 14:24:02,594][./train_dir/log][INFO] - Validation: Epoch: 65, MAE: 4.1453, RMSE: 6.1091, MAPE: 15.05%
+[2025-12-14 14:31:10,885][./train_dir/log][INFO] - Training: Iter: 66, batch: 50/100, running loss: 0.0049
+[2025-12-14 14:38:15,194][./train_dir/log][INFO] - Training: Iter: 66, batch: 100/100, running loss: 0.0049
+[2025-12-14 14:38:16,313][./train_dir/log][INFO] - Validation: Epoch: 66, MAE: 0.4309, RMSE: 0.6498, MAPE: 3.48%
+[2025-12-14 14:45:23,281][./train_dir/log][INFO] - Training: Iter: 67, batch: 50/100, running loss: 0.0048
+[2025-12-14 14:52:35,208][./train_dir/log][INFO] - Training: Iter: 67, batch: 100/100, running loss: 0.0048
+[2025-12-14 14:52:36,385][./train_dir/log][INFO] - Validation: Epoch: 67, MAE: 5.9293, RMSE: 6.6403, MAPE: 32.24%
+[2025-12-14 14:59:42,357][./train_dir/log][INFO] - Training: Iter: 68, batch: 50/100, running loss: 0.0047
+[2025-12-14 15:06:44,702][./train_dir/log][INFO] - Training: Iter: 68, batch: 100/100, running loss: 0.0047
+[2025-12-14 15:06:45,824][./train_dir/log][INFO] - Validation: Epoch: 68, MAE: 9.6572, RMSE: 12.0414, MAPE: 11.18%
+[2025-12-14 15:13:50,163][./train_dir/log][INFO] - Training: Iter: 69, batch: 50/100, running loss: 0.0049
+[2025-12-14 15:20:51,334][./train_dir/log][INFO] - Training: Iter: 69, batch: 100/100, running loss: 0.0050
+[2025-12-14 15:20:52,456][./train_dir/log][INFO] - Validation: Epoch: 69, MAE: 2.3950, RMSE: 2.7994, MAPE: 2.31%
+[2025-12-14 15:28:05,070][./train_dir/log][INFO] - Training: Iter: 70, batch: 50/100, running loss: 0.0051
