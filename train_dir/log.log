@@ -1057,3 +1057,42 @@
 [2025-12-14 11:06:18,400][./train_dir/log][INFO] - Training: Iter: 51, batch: 100/100, running loss: 0.0066
 [2025-12-14 11:06:19,553][./train_dir/log][INFO] - Validation: Epoch: 51, MAE: 1.1134, RMSE: 1.6289, MAPE: 1.77%
 [2025-12-14 11:13:22,265][./train_dir/log][INFO] - Training: Iter: 52, batch: 50/100, running loss: 0.0069
+[2025-12-14 11:20:25,829][./train_dir/log][INFO] - Training: Iter: 52, batch: 100/100, running loss: 0.0071
+[2025-12-14 11:20:26,947][./train_dir/log][INFO] - Validation: Epoch: 52, MAE: 11.7922, RMSE: 13.0426, MAPE: 14.10%
+[2025-12-14 11:27:29,967][./train_dir/log][INFO] - Training: Iter: 53, batch: 50/100, running loss: 0.0069
+[2025-12-14 11:34:34,800][./train_dir/log][INFO] - Training: Iter: 53, batch: 100/100, running loss: 0.0068
+[2025-12-14 11:34:35,917][./train_dir/log][INFO] - Validation: Epoch: 53, MAE: 4.7047, RMSE: 6.4340, MAPE: 49.47%
+[2025-12-14 11:41:38,502][./train_dir/log][INFO] - Training: Iter: 54, batch: 50/100, running loss: 0.0065
+[2025-12-14 11:48:48,882][./train_dir/log][INFO] - Training: Iter: 54, batch: 100/100, running loss: 0.0063
+[2025-12-14 11:48:50,008][./train_dir/log][INFO] - Validation: Epoch: 54, MAE: 14.0647, RMSE: 15.2223, MAPE: 13.51%
+[2025-12-14 11:55:55,616][./train_dir/log][INFO] - Training: Iter: 55, batch: 50/100, running loss: 0.0061
+[2025-12-14 12:03:01,339][./train_dir/log][INFO] - Training: Iter: 55, batch: 100/100, running loss: 0.0060
+[2025-12-14 12:03:02,502][./train_dir/log][INFO] - Validation: Epoch: 55, MAE: 5.7872, RMSE: 6.6592, MAPE: 12.35%
+[2025-12-14 12:10:10,998][./train_dir/log][INFO] - Training: Iter: 56, batch: 50/100, running loss: 0.0064
+[2025-12-14 12:17:14,206][./train_dir/log][INFO] - Training: Iter: 56, batch: 100/100, running loss: 0.0066
+[2025-12-14 12:17:15,309][./train_dir/log][INFO] - Validation: Epoch: 56, MAE: 7.5527, RMSE: 9.5588, MAPE: 37.36%
+[2025-12-14 12:24:13,970][./train_dir/log][INFO] - Training: Iter: 57, batch: 50/100, running loss: 0.0065
+[2025-12-14 12:31:12,298][./train_dir/log][INFO] - Training: Iter: 57, batch: 100/100, running loss: 0.0064
+[2025-12-14 12:31:13,379][./train_dir/log][INFO] - Validation: Epoch: 57, MAE: 2.4475, RMSE: 2.8108, MAPE: 236.31%
+[2025-12-14 12:38:15,309][./train_dir/log][INFO] - Training: Iter: 58, batch: 50/100, running loss: 0.0068
+[2025-12-14 12:45:18,650][./train_dir/log][INFO] - Training: Iter: 58, batch: 100/100, running loss: 0.0073
+[2025-12-14 12:45:19,780][./train_dir/log][INFO] - Validation: Epoch: 58, MAE: 3.9445, RMSE: 4.5164, MAPE: 10.24%
+[2025-12-14 12:52:21,075][./train_dir/log][INFO] - Training: Iter: 59, batch: 50/100, running loss: 0.0067
+[2025-12-14 12:59:22,003][./train_dir/log][INFO] - Training: Iter: 59, batch: 100/100, running loss: 0.0064
+[2025-12-14 12:59:23,101][./train_dir/log][INFO] - Validation: Epoch: 59, MAE: 21.7918, RMSE: 26.2306, MAPE: 49.77%
+[2025-12-14 13:06:23,252][./train_dir/log][INFO] - Training: Iter: 60, batch: 50/100, running loss: 0.0060
+[2025-12-14 13:13:23,303][./train_dir/log][INFO] - Training: Iter: 60, batch: 100/100, running loss: 0.0058
+[2025-12-14 13:13:23,334][./train_dir/log][INFO] - Epoch 60: LR = 0.001000
+[2025-12-14 13:13:24,425][./train_dir/log][INFO] - Validation: Epoch: 60, MAE: 23.4480, RMSE: 29.7659, MAPE: 46.18%
+[2025-12-14 13:20:26,486][./train_dir/log][INFO] - Training: Iter: 61, batch: 50/100, running loss: 0.0056
+[2025-12-14 13:27:25,796][./train_dir/log][INFO] - Training: Iter: 61, batch: 100/100, running loss: 0.0054
+[2025-12-14 13:27:26,903][./train_dir/log][INFO] - Validation: Epoch: 61, MAE: 8.7541, RMSE: 9.9278, MAPE: 16.35%
+[2025-12-14 13:34:26,411][./train_dir/log][INFO] - Training: Iter: 62, batch: 50/100, running loss: 0.0057
+[2025-12-14 13:41:27,249][./train_dir/log][INFO] - Training: Iter: 62, batch: 100/100, running loss: 0.0061
+[2025-12-14 13:41:28,365][./train_dir/log][INFO] - Validation: Epoch: 62, MAE: 11.7025, RMSE: 14.6922, MAPE: 20.60%
+[2025-12-14 13:48:29,414][./train_dir/log][INFO] - Training: Iter: 63, batch: 50/100, running loss: 0.0057
+[2025-12-14 13:55:35,931][./train_dir/log][INFO] - Training: Iter: 63, batch: 100/100, running loss: 0.0055
+[2025-12-14 13:55:37,097][./train_dir/log][INFO] - Validation: Epoch: 63, MAE: 0.4371, RMSE: 0.5805, MAPE: 1.34%
+[2025-12-14 14:02:45,561][./train_dir/log][INFO] - Training: Iter: 64, batch: 50/100, running loss: 0.0054
+[2025-12-14 14:09:53,597][./train_dir/log][INFO] - Training: Iter: 64, batch: 100/100, running loss: 0.0055
+[2025-12-14 14:09:54,769][./train_dir/log][INFO] - Validation: Epoch: 64, MAE: 8.1710, RMSE: 9.0387, MAPE: 31.36%
