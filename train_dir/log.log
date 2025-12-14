@@ -1019,3 +1019,6 @@
 [2025-12-14 08:16:24,924][./train_dir/log][INFO] - Training: Iter: 39, batch: 100/100, running loss: 0.0094
 [2025-12-14 08:16:26,063][./train_dir/log][INFO] - Validation: Epoch: 39, MAE: 2.8515, RMSE: 3.3264, MAPE: 43.89%
 [2025-12-14 08:23:30,428][./train_dir/log][INFO] - Training: Iter: 40, batch: 50/100, running loss: 0.0098
+[2025-12-14 08:30:33,648][./train_dir/log][INFO] - Training: Iter: 40, batch: 100/100, running loss: 0.0100
+[2025-12-14 08:30:33,669][./train_dir/log][INFO] - Epoch 40: LR = 0.001000
+[2025-12-14 08:30:34,752][./train_dir/log][INFO] - Validation: Epoch: 40, MAE: 4.3957, RMSE: 5.0504, MAPE: 17.18%
